@@ -1,6 +1,6 @@
-# 🧬 Genomik Veri Analizi ve Görselleştirme Workshopu
+#  Genomik Veri Analizi ve Görselleştirme Workshopu
 
-## 🚀 Proje İçeriği
+## Proje İçeriği
 
 Bu notebook aşağıdaki adımları içermektedir:
 
@@ -17,7 +17,7 @@ Bu notebook aşağıdaki adımları içermektedir:
     * 5'->3' ve 3'->5' yönelimlerine göre medyan intron boyutlarının karşılaştırmalı **Çizgi Grafiği (Line Plot)** ile gösterilmesi.
 
 
-## 📂 Veri Setleri
+## Veri Setleri
 
 Projede kullanılan veri setleri:
 * **GFF3 Dosyası:** *Schistosoma mansoni* genom anotasyonları (WormBase veritabanından).
